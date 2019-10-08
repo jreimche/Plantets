@@ -1,9 +1,5 @@
 Cold and dry, but everything is my favorite color. 
 The two moons may be a problem for wolfman.
 But the mummy will appreciate the lack of humidity. 
-Maybe we can all be happy on Venus
-<<<<<<< HEAD
-New line added to wolfman's copy
-=======
+Maybe we can all just be happy on Venus
 This line added to wolfman's copy
->>>>>>> ea352a872c44464e87594216371350c6ea8c823b
